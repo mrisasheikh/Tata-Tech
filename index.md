@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Computing a Nation: TIFRAC</title>
+
   <link rel="stylesheet" href="style.css"> <!-- optional CSS file -->
 </head>
 <body>
   <header>
-    <h1>Computing a Nation: TIFRAC and the Origins of Indian Computing</h1>
+    <h1> TATA Tech: TIFRAC and the Origins of Indian Computing</h1>
   </header>
 
   <main>
