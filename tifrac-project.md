@@ -11,7 +11,7 @@ In 1955, the Tata Institute of Fundamental Research began a bold new experiment:
 
 When Nehru inaugurated the new TIFR building in 1960, he also gave the computer its name: **TIFRAC** — the Tata Institute of Fundamental Research Automatic Calculator.
 
-The machine was designed with an eye to India’s future scientific needs, not just computation for its own sake. Bhabha, echoing a vision aligned with thinkers like John von Neumann, saw computing as essential to India’s “planned economy” and atomic ambitions alike.
+The machine was designed with an eye to India’s future scientific needs, not just computation for its own sake. Bhabha, echoing a vision aligned with thinkers like John von Neumann, saw computing as essential to India’s “planned economy” and atomic ambitions alike. 
 
 ![Tata Institute in the 1960s](images/tatainstitute.jpeg)
 
