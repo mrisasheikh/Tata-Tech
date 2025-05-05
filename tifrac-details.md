@@ -9,7 +9,7 @@ TIFRAC was no toy. With a 40-bit word length and a core memory of 1024 to 2048 w
 
 The computer used a three-dimensional magnetic core memory, a cutting-edge storage technology at the time, and became operational by 1959, serving researchers until 1964. As P.V.S. Rao recalled, “it was NOT a trivial effort... It could well have been a recipe for disaster” (Rao, 424). But the team succeeded, even with limited access to international knowledge or parts.
 
-Yet by the time it was officially named in 1962, TIFRAC had already become a historical artifact — “an obsolete first generation machine” in the words of its own designers (Menon, 452). In the rapidly accelerating world of Cold War computing, even triumphs were fleeting.
+Yet by the time it was officially named in 1962, TIFRAC had already become a historical artifact — “an obsolete first generation machine” in the words of its own designers (Menon, 452). In the rapidly accelerating world of Cold War computing, even triumphs were fleeting. 
 
 
 | Category               | Details                                                                                   |
