@@ -19,16 +19,9 @@ In the 1950s, a small team at the Tata Institute of Fundamental Research set out
 
 ---
 
-## Featured Image
 
 ![Cartoon of R. Narasimhan and TIFRAC](images/rivercartoon.jpg)
 
-<figcaption style="text-align:center; font-size:0.9rem; color:#555;">
-<em>"This river will usher in an era of prosperity; it will nurture a rising superpower."</em>
-</figcaption>
-      <li><a href="other-efforts.html">Other Efforts</a></li>
-    </ul>
-  </nav> 
   
   <footer>
     <p>&copy; 2025 Isa Sheikh</p>
