@@ -10,17 +10,18 @@ In the 1950s, a small team at the Tata Institute of Fundamental Research set out
 
 ---
 
+
+![Cartoon of R. Narasimhan and TIFRAC](images/rivercartoon.jpg)
+
+
+---
+
 ## Explore the Project
 
 - [India in 1960: Cold War, Independence, Nehruvian Science](india-1960.md)
 - [The Project to Build a Computer](tifrac-project.md)
 - [What Was TIFRAC?](tifrac-details.md)
 - [Other Indian Computing Efforts](other-efforts.md)
-
----
-
-
-![Cartoon of R. Narasimhan and TIFRAC](images/rivercartoon.jpg)
 
   
   <footer>
