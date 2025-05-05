@@ -23,7 +23,10 @@ In the 1950s, a small team at the Tata Institute of Fundamental Research set out
 - [What Was TIFRAC?](tifrac-details.md)
 - [Other Indian Computing Efforts](other-efforts.md)
 
-  
+---
+[→ Jump to References](references.md)
+
+---
   <footer>
     <p>&copy; 2025 Isa Sheikh</p>
   </footer>
