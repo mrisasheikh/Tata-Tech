@@ -13,7 +13,7 @@ When Nehru inaugurated the new TIFR building in 1960, he also gave the computer 
 
 The machine was designed with an eye to India’s future scientific needs, not just computation for its own sake. Bhabha, echoing a vision aligned with thinkers like John von Neumann, saw computing as essential to India’s “planned economy” and atomic ambitions alike.
 
-! [Tata Institute](images/Ec3wXH-UMAE8fIv.jpeg)
+! [Tata Institute](TIFR.jpg)
 
 
 
