@@ -12,7 +12,6 @@
   </header>
 
   <main>
-    <section>
       <p>
         In the 1950s, a small team at the Tata Institute of Fundamental Research set out to build something no one in India had attempted before: a digital computer, designed and built entirely at home. This website explores the story of <strong>TIFRAC</strong>, India’s first indigenous computer — a machine born from Cold War geopolitics, Nehruvian dreams of self-reliance, and the audacity of scientific imagination.
       </p>
