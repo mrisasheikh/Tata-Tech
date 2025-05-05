@@ -10,3 +10,5 @@ In 1960, India was a newly independent nation navigating the turbulent crosscurr
 India's scientific elite, led by figures like Homi J. Bhabha, embraced a philosophy of technological self-reliance. “The ruling philosophy at that time,” recalled one TIFRAC designer, “was ‘do it here, do it ourselves’” (Rao, 421). The same drive that built the Apsara nuclear reactor inspired the quest for a domestically designed digital computer.
 
 This ambition unfolded not in isolation, but against a backdrop of global competition. American military-funded computing projects remained cloaked in secrecy. Indian scientists “lacked access” to such developments and were “forced to stand on [their] own feet” — a handicap, but also “an opportunity to innovate” (Rao, 423).
+
+![Mount Road, Madras (now Chennai), 1960](images/madrasmountroad.jpg)
