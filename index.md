@@ -30,5 +30,3 @@ In the 1950s, a small team at the Tata Institute of Fundamental Research set out
   <footer>
     <p>&copy; 2025 Isa Sheikh</p>
   </footer>
-</body>
-</html>
